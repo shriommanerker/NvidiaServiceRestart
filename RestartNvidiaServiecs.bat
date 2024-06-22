@@ -16,5 +16,4 @@ timeout /t 5 /nobreak
 sc query "NvContainerLocalSystem"
 sc query "NVDisplay.ContainerLocalSystem"
 
-timeout /t -1
-timeout /t -1
+#timeout /t -1
